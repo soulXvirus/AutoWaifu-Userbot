@@ -3,7 +3,7 @@ from pyrogram import filters
 import os
 from bs4 import BeautifulSoup
 import requests
-from WaifuUserbot import Waifu, REPLY
+from WaifuUserbot import Waifu, RELAY
 
 # REPLY VAR
 
